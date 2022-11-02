@@ -2,8 +2,8 @@ import logo from './logo.svg';
 import './App.css'
 import { BrowserRouter, Routes, Route} from 'react-router-dom';
 import Home from './Home';
-import NavBar from './components/profile/navbar';
-import Footer from './components/profile/Footer';
+import NavBar from './components/navbar';
+import Footer from './components/Footer';
 
 
 
